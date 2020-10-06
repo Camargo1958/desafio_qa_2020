@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafio_qa_2020.iml" filepath="$PROJECT_DIR$/.idea/desafio_qa_2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste-inmetrics/teste-inmetrics.iml" filepath="$PROJECT_DIR$/teste-inmetrics/teste-inmetrics.iml" />
+    </modules>
+  </component>
+</project>
