@@ -1,5 +1,5 @@
 # desafio_qa_2020 (identico ao teste-inmetrics/README.md)
-Teste Inmetrics - Descrever como executar o projeto
+Descrição de como executar o projeto:
 Baixamos o projeto base do Git (tivemos um retardo devido a verificação de segurança)
 O projeto foi realizado no IntelliJ IDE
 Inicialmente foram carregadas as dependências necessárias (ver pom.xml)
